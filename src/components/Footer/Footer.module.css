@@ -1,0 +1,9 @@
+.Footer{
+    padding: 20px 0;
+    font-family: inherit;
+    color: rgb(0, 35, 131);
+    font-size: 20px;
+}
+.Footer a{
+    text-decoration: none;
+}
